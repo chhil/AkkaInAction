@@ -13,7 +13,7 @@ import java.util.concurrent.CompletionStage;
 /**
  * Created by Murtuza on 10/19/2016.
  */
-public class ReadParseFilterSerializeMain {
+public class EventFilter {
 
     public static void main(String[] args) {
 
