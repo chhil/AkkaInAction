@@ -5,7 +5,7 @@ Java code for scala stream samples for the Akka In Action book.
 
 ### StreamingCopy
 ![Alt text](screenshots/stream_copy.png)
-**StreaminCopy.java** [StreaminCopy.scala](https://github.com/RayRoestenburg/akka-in-action/blob/master/chapter-stream/src/main/scala/aia/stream/StreamingCopy.scala)
+**StreamingCopy.java** [StreamingCopy.scala](https://github.com/RayRoestenburg/akka-in-action/blob/master/chapter-stream/src/main/scala/aia/stream/StreamingCopy.scala)
 
 This is a standalone independent class for copying a file from location A 
 to location B.
