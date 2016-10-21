@@ -39,7 +39,7 @@ In the scala world its part of the Event.scala.
 
 In the ebook it is listing 13.16 - 13.17
 
-1. **BidiDilter.java** [original BidiEventFilter.scala](https://github.com/RayRoestenburg/akka-in-action/blob/master/chapter-stream/src/main/scala/aia/stream/BidiEventFilter.scala)
+1. **BidiEventFilter.java** [original BidiEventFilter.scala](https://github.com/RayRoestenburg/akka-in-action/blob/master/chapter-stream/src/main/scala/aia/stream/BidiEventFilter.scala)
 
 The main runnable class, that uses the framing,parsing and filter flows from the previous EventFilter class. Forms a bidiflow using framing and parsing and then joins the filter flow.
 
